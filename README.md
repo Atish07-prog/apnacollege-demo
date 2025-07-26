@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repositories.
 <br>
-Author - Atish Mishra
+Author - Atish Mishra (IIT BOMBAY)
